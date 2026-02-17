@@ -164,4 +164,3 @@ AEM Publish:
 Content is publicly accessible, after being replicated from the Author instance. 
 Once the content is approved and replication occurs, it becomes visible on the live site for external users. 
 
-<img width="740" height="3883" alt="image" src="https://github.com/user-attachments/assets/70f91534-04d2-47b2-a350-1b880412f2c1" />
